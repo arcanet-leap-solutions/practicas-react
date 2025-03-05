@@ -1,0 +1,10 @@
+1.- tienes que conectarte al servidor de graphql
+2.- traner los clientes de la base de datos
+3.- monstrarlo en una tabla
+4.- generar un chat que te permita conectar con deepseek
+
+////////////////////////////
+
+1.- conectarte con deepseek
+2.- realizar una conexcion con el servidor graphql
+3.- crear una api rest para consumir deepseek
