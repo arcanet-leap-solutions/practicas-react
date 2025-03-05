@@ -3,6 +3,8 @@
 3.- monstrarlo en una tabla
 4.- generar un chat que te permita conectar con deepseek
 
+https://www.npmjs.com/package/graphql-request
+
 ////////////////////////////
 
 1.- conectarte con deepseek
